@@ -1,7 +1,3 @@
-# tc_ai_test_python
-根据腾讯公开ai接口（https://ai.qq.com/）以及第三方的java库（http://taip.mydoc.io/?t=307518）开发的python程序
-python版本是3.6
-目前实现的功能：
 from . import BankCardDistinguish # 银行卡识别
 from . import BlurredImageRecognition # 模糊图片识别
 from . import BusinessLicenseDistinguish # 营业执照识别
@@ -37,4 +33,3 @@ from . import TextTranslation # 文本翻译
 from . import TravelOrDriveCardDistinguish # 行驶证和驾驶证的识别
 from . import ViolentTerrorIdentification # 暴恐识别
 from . import VisitingCardIdentification # 名片识别
-
